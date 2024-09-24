@@ -1,0 +1,20 @@
+Password Complexity Checker ✈️
+Overview
+The Password Complexity Checker is a simple Python program that evaluates the strength of a given password based on various criteria, such as length, uppercase and lowercase letters, numbers, and special characters. It provides feedback on the password's strength and suggestions for improvement if necessary.
+
+Features
+Checks for minimum password length (8 characters).
+Validates the presence of:
+Uppercase letters
+Lowercase letters
+Numbers
+Special characters
+Provides a password strength assessment (Very Strong, Strong, Moderate, Weak).
+Offers suggestions for improving weak passwords.
+Author
+This project is developed by Dharmpreet Singh.
+
+Usage
+Run the program.
+Enter your password when prompted.
+Review the password assessment and suggestions for improvement.
